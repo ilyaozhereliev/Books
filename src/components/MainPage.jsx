@@ -5,8 +5,6 @@ import BookCard from './BookCard';
 const MainPage = () => {
   const [search, setSearch] = useState('');
   const [bookData, setData] = useState([]);
-  const [currentPage, setCurrentPage] = useState(1);
-  const [booksPerPage] = useState(10);
 
   const searchBook = (e) => {
     if (e.key === 'Enter' || e.button === 0) {

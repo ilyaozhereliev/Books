@@ -61,6 +61,11 @@ html {
   cursor: pointer;
 }
 
+.search button:hover {
+  background-color: rgb(255, 138, 36);
+  transition: all ease 0.5s;
+}
+
 .bookshelf {
   width: 80%;
   margin: 0 auto;
@@ -187,6 +192,11 @@ html {
   font-weight: bold;
   padding: 0.3rem, 0.5rem;
   cursor: pointer;
+}
+
+.overlay-inner .inner-box button:hover {
+  background-color: rgb(87, 87, 87);
+  transition: all ease 0.5s;
 }
 
 .overlay-inner .description {

@@ -1,6 +1,7 @@
 # :books: Books
 
-![React App - Google Chrome 2022-07-26 19-41-45 (online-video-cutter com) (2)](https://user-images.githubusercontent.com/73027259/181065394-6fe57b85-f3d2-4ed9-ac6f-ba216972dc74.gif)
+
+![React App - Google Chrome 2022-07-26 19-41-45 (online-video-cutter com) (3)](https://user-images.githubusercontent.com/73027259/181065599-68f8fd47-efcc-49b7-87c2-184d5f80d969.gif)
 
 ***
 

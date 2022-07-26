@@ -1,6 +1,6 @@
 # :books: Books
 
-![React-App-Google-Chrome-2022-06-28-14-26-25_Trim-_1_-_online-video-cutter com_](https://user-images.githubusercontent.com/73027259/176169995-b333608d-bc0a-4ab6-90af-932509064895.gif)
+![React App - Google Chrome 2022-07-26 19-41-45 (online-video-cutter com) (2)](https://user-images.githubusercontent.com/73027259/181065394-6fe57b85-f3d2-4ed9-ac6f-ba216972dc74.gif)
 
 ***
 
@@ -14,3 +14,4 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>&nbsp
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="css" alt="css" width="40" height="40"/>&nbsp;
 </div>
+
